@@ -1,8 +1,11 @@
-                                                                       ## Hi 👋, I'm Kalyani  
-                                                                       
-                                                   Full Stack Developer | Building purposeful digital products 🚀  
+  ## Hi 👋, I'm Kalyani  
+        
+  Full Stack Developer 💫  
+  
+  Building purposeful digital products 🚀  
 
 🌟 About Me:  
+
 👩‍💻 Final Year Engineering Student  
 
 💡 Passionate about developing real-world applications that solve meaningful problems  

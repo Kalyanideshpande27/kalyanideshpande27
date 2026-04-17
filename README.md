@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I'm Kalyani  
+Full Stack Developer | Building purposeful digital products 🚀  
 
-<!--
-**Kalyanideshpande27/kalyanideshpande27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me:  
+👩‍💻 Final Year Engineering Student  
 
-Here are some ideas to get you started:
+💡 Passionate about developing real-world applications that solve meaningful problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Interested in backend development, system design, and scalable architectures  
+
+🤝 Strong in problem-solving, collaboration, and writing clean, efficient code  
+
+🌱 Continuously learning and improving in modern web technologies  
+
+🌐 Visit My Portfolio: https://kalyanideshpande.vercel.app/
+
+📫 How to reach me: kalyanideshpande2705@gmail.com

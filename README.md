@@ -1,8 +1,11 @@
-  ## Hi 👋, I'm Kalyani  
-        
-  Full Stack Developer 💫  
-  
-  Building purposeful digital products 🚀  
+<div align="center">
+
+Hi 👋, I'm Kalyani  
+
+A Passionate Full Stack Developer 💫  
+Building impactful and scalable web solutions 🚀  
+
+</div>
 
 🌟 About Me:  
 

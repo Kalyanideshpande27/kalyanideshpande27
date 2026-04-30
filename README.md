@@ -9,7 +9,7 @@ Building impactful and scalable web solutions 🚀
 
 🌟 About Me:  
 
-👩‍💻 Final Year Engineering Student  
+👩‍💻 Final Year Engineering Student    
 
 💡 Passionate about developing real-world applications that solve meaningful problems  
 

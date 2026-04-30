@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi 👋, I'm Kalyani  
+# 👋 Hey there, I'm Kalyani Deshpande
 
 A Passionate Full Stack Developer 💫  
 Building impactful and scalable web solutions 🚀  
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Passionate+About+Real+World+Solutions" />
+
 </div>
-
-
 
 # 🌟 About Me:  
 
@@ -35,4 +35,17 @@ Building impactful and scalable web solutions 🚀
 <a href="mailto:kalyanideshpande2705@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
+</p>
+
+## 🛠️ Tech Stack
+
+<p >
+
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+
 </p>

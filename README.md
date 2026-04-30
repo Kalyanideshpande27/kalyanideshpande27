@@ -7,7 +7,7 @@ Building impactful and scalable web solutions 🚀
 
 </div>
 
----
+
 
 # 🌟 About Me:  
 
@@ -24,3 +24,15 @@ Building impactful and scalable web solutions 🚀
 🌐 Visit My Portfolio: https://kalyanideshpande.vercel.app/
 
 📫 How to reach me: kalyanideshpande2705@gmail.com
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/deshpande-kalyani" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:kalyanideshpande2705@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
